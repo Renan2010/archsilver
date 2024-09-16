@@ -1,0 +1,6 @@
+NAME="Arch Silver OS"
+PRETTY_NAME="Arch Silver OS"
+ID=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+SRC_URL="https://github.com/Renan2010/archsilver"
