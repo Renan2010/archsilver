@@ -11,15 +11,11 @@
 ~ $ gh repo clone Renan2010/archsilver
 ```
 # Making ISO
-**make the script executable**
+**Enter to ArchSilver directory**
 ```bash
-~ $ chmod 755 makeiso.sh
+~ $ cd ArchSilver
 ```
-**Note: This process will use root, please be careful in this part**
+**Execute this command below**
 ```bash
-~ $ sudo ./makeiso.sh 
-```
-or 
-```bash
-~ $ sudo sh makeiso.sh
+~ $  mkarchiso -v -w output/ -o iso/ releng/
 ```
