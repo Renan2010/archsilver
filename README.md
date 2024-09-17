@@ -15,7 +15,8 @@
 ```bash
 ~ $ cd ArchSilver
 ```
+## Note: This command is run with root so be careful
 **Execute this command below**
 ```bash
-~ $  mkarchiso -v -w output/ -o iso/ releng/
+~ $  sudo mkarchiso -v -w output/ -o iso/ releng/
 ```
