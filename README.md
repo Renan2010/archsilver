@@ -6,7 +6,7 @@
 ```bash
 ~ $ git clone https://github.com/Renan2010/archsilver.git
 ```
-or using github-cli
+**or using github-cli**
 ```bash
 ~ $ gh repo clone Renan2010/archsilver
 ```
