@@ -13,5 +13,13 @@
 # Making ISO
 **Note: This process will use root, please be careful in this part**
 ```bash
-~ $ sudo ./makeiso.sh
+~ $ chmod 755 makeiso.sh
+```
+
+```bash
+~ $ sudo ./makeiso.sh 
+```
+or 
+```bash
+~ $ sudo sh makeiso.sh
 ```
