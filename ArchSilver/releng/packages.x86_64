@@ -122,7 +122,7 @@ usbutils
 vim
 virtualbox-guest-utils-nox
 vpnc
-firefox
+chromium
 wireless-regdb
 wireless_tools
 wpa_supplicant
@@ -133,5 +133,4 @@ zsh
 fish
 htop
 gnome
-
-sddm
+gdm
