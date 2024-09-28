@@ -1,0 +1,11 @@
+[Unit]
+Description=Start NetworkManager
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/systemctl start NetworkManager.service
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
+
