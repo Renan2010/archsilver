@@ -10,7 +10,7 @@
 ```bash
 ~ $ gh repo clone Renan2010/archsilver
 ```
-# Making ISO
+## Making ISO
 **Enter to ArchSilver directory**
 ```bash
 ~ $ cd ArchSilver
